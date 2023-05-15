@@ -61,7 +61,7 @@ We investigate the major choice of college graduates where we make choice depend
 ### Journal Publications
 <p> </p>
 
-1) **[Occupations, organizations, and the structure of wage inequality in the Netherlands](https://christophjanietz.github.io/assets/JanietzBol2020.pdf){:target="_blank"}**, *Research in Social Stratification and Mobility*, , (2020). \
+1) **[Occupations, organizations, and the structure of wage inequality in the Netherlands](https://christophjanietz.github.io/assets/JanietzBol2020.pdf){:target="_blank"}**, *Research in Social Stratification and Mobility*, (2020). \
 (joint with [Thijs Bol](https://thijsbol.com/){:target="_blank"}) \
 
 <details>
