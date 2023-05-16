@@ -6,8 +6,6 @@ permalink: /teaching/
 ---
 
 
-## Teaching
-
 ### University of Amsterdam
 
 - **Bachelor Thesis Seminar** (6 students), 2023, \
