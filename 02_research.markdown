@@ -15,7 +15,6 @@ permalink: /research/
     </style>
 
 
-## Research
 ### Work in Progress
 <p> </p>
 
