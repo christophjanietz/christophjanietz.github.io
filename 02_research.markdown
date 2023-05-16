@@ -18,7 +18,7 @@ permalink: /research/
 ## Research
 ### Work in Progress
 <p> </p>
-**Occupations and careers within organizations: do organizations amplify wage inequality between occupational classes?** 
+**Occupations and careers within organizations: do organizations amplify wage inequality between occupational classes?** \
 
 <details>
   <summary>Abstract</summary>
