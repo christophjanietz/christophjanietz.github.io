@@ -9,7 +9,7 @@ title: Christoph Janietz
 
 ### Hi,
 
-I am a PhD candidate at the [Department of Sociology](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/disciplines/sociology/sociology.html){:target="_blank"} of [University of Amsterdam](https://www.uu.nl/en){:target="_blank"} .
+I am a PhD candidate at the [Department of Sociology](https://www.uva.nl/en/about-the-uva/organisation/faculties/faculty-of-social-and-behavioural-sciences/disciplines/sociology/sociology.html){:target="_blank"} of [University of Amsterdam](https://www.uva.nl/en){:target="_blank"} .
 
 I am mostly interested in issues related to social stratification and wage inequality.
 
