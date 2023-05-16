@@ -18,13 +18,18 @@ permalink: /research/
 ## Research
 ### Work in Progress
 <p> </p>
-**[Enrolling in Bad Times: College Persistence and Labor Market Outcomes](https://jacopoto.github.io/assets/can_late_finish-1.pdf){:target="_blank"}** \
-(joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"}, [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}, [Kelly Foley](https://www.kellyfoley.org/){:target="_blank"} and [Peter McHenry](https://www.wm.edu/as/economics/faculty-directory/mchenry_p.php){:target="_blank"})
+**Occupations and careers within organizations: do organizations amplify wage inequality between occupational classes?** 
+
 <details>
   <summary>Abstract</summary>
 
-Using administrative data covering the universe of student enrollments in public universities in Canada since 2009, we show that individuals who start an undergraduate degree when unemployment is high are less likely to graduate within five years. Compositional changes along observable student characteristics including gender, age at enrollment, and parental income do not account for this result, nor does sorting across universities or fields of study. While a simple model of negative selection into university during downturns can account for the decline in graduation rates, it would imply that post-schooling earnings should be lower among non-completers who enroll during high unemployment periods compared to those who enroll when unemployment is lower. Using a panel of administrative tax data linked to the student enrollment records, we show that higher unemployment rates at enrollment are not associated with lower annual earnings among non-completers. A model that features heterogeneity in the idiosyncratic costs of post-secondary education can rationalize this result.
+Recent research suggests that occupational positions and organizational structures intersect during the formation of wage inequality over the working career. Using administrative data from the Netherlands, I investigate whether workers who start in different occupational positions experience unequal wage growth while remaining employed in an organization. Results show that workers in professional and managerial positions experience larger wage growth than workers in lower-status occupational positions. After six years of staying at the same organization, predicted wage growth rates vary between 5.44% for production workers and 10.18% for technical professionals. These findings indicate that occupational stratification has a dynamic component that unfolds at the level of organizations. I test whether occupational sorting across organizations with differing pay quality mediates part of the occupation-based heterogeneity in wage growth. The results indicate that occupational sorting is marked but that sorting explains only up to around 8% of heterogeneity in firm-internal wage growth between occupational positions in the Dutch labor market. 
 </details>
+<p> </p>
+
+**The effect of early tracking on relative age effects in education.** \
+(with [Melline Somers](https://www.maastrichtuniversity.nl/m-somers){:target="_blank"} (first author), [Rolf van der Velden](https://www.maastrichtuniversity.nl/r-van-der-velden){:target="_blank"} and [Roxanne Korthals](http://roxannekorthals.com/){:target="_blank"}) 
+
 <p> </p>
 
 
@@ -33,36 +38,34 @@ Using administrative data covering the universe of student enrollments in public
 ### Under Review
 <p> </p>
 
-**[Make Your Own Luck: The Wage Gains from Starting College in a Bad Economy](https://jacopoto.github.io/assets/make-luck_paper.pdf){:target="_blank"}**, (*R&R Labour Economics*).\
-(joint with [Alena Bicáková](http://home.cerge-ei.cz/Alena/){:target="_blank"} and [Matias Cortes](https://www.sites.google.com/site/gmatiascortes/home){:target="_blank"}), IZA Discussion Paper No. 16087. \
-[slides](https://jacopoto.github.io/assets/make-luck_pres.pdf){: .button}{:target="_blank"}
+**Temporary employment and wage inequality over the life course** \
+(with [Thijs Bol](https://thijsbol.com/){:target="_blank"} and [Bram Lancee](https://www.bramlancee.eu/){:target="_blank"}).
 <details>
   <summary>Abstract</summary>
 
-Using data for nearly 40 cohorts of American college graduates and exploiting regional variation in economic conditions, we show robust evidence of a positive relationship between the unemployment rate at the time of college enrollment and subsequent annual earnings, particularly for women. This positive relationship cannot be explained by selection into employment or by economic conditions at the time of labor market entry. Up to one quarter of the effect is accounted for by changes in field of study choices and by sorting towards more remunerative locations. The results are consistent with a behavioral change that induces individuals who experience bad economic times at the beginning of their studies to exert more effort towards obtaining higher-paying jobs.
+Wage inequality between workers with different levels of educational attainment has been shown to increase over the life course. In this study, we investigate to what extent this growth is explained by temporary employment. Using linked employer-employee register data from the Netherlands, we follow the labor market careers of workers born in 1979. We decompose the impact of temporary employment on the change in the educational wage gap over the life course into two distinct components: (a) changes in the group-specific temporary employment rates (group-specific risk) and (b) changes in the group-specific effects of temporary employment on wages (group-specific vulnerability). In line with previous research, we find a marked growth of the educational wage gap over the life course. While group differences in temporary employment risk changed throughout the observation period to the detriment of lower-educated workers, group differences in vulnerability to temporary employment increased specifically during the early life course. Overall, temporary employment explains approximately 9% of the change in the wage gap between workers with different levels of educational attainment by the age of 38 relative to age 28 in the Netherlands.
 </details>
 <p> </p>
 
 
-**[Educational Choice, Initial Wage
-and Wage Growth](https://jacopoto.github.io/jacopomazza.com/college_wage_growth.pdf){:target="_blank"}** \
-(joint with [Hans van Ophem](https://www.uva.nl/en/profile/o/p/j.c.m.vanophem/j.c.m.van-ophem.html){:target="_blank"}), Tinbergen Institute Discussion Paper 2020-030/III.
+**Essential workers and wage inequality: wage differentials before and during the Covid-19 pandemic, 2006 to 2021**
 
 <details>
   <summary>Abstract</summary>
 
-We investigate the major choice of college graduates where we make choice dependent on expected initial wages and expected wage growth per major. We build a model that allows us to estimate these factors semiparametrically and that corrects for selection bias. We estimate the model on the combined NLSY79 and NLSY97 samples. We find markedly different results in expected real wage growth and expected initial wages across majors. Furthermore, the differences in these expectations appear to be relevant for major choice.
+In 2020, several governments declared specific occupations as essential for maintaining the functioning of society in response to the Covid-19 pandemic. A current question in the public debate on fair pay is whether essential workers are sufficiently remunerated. Using data from the Netherlands, I analyze the wages of essential workers relative to other workers before and during the Covid-19 pandemic. Results indicate that essential workers earn less relative to other workers within higher-paid strata of the occupational structure, while they earn more within lower-paid strata. These wage differentials are shaped by gender composition and sectoral employment. I employ a difference-in-differences design based on quarterly data between January 2017 and September 2022 to assess whether the onset of the Covid-19 pandemic affected wage differentials due to an increasing public appreciation of essential work. Results indicate that the collective experience of the Covid-19 pandemic has not benefited essential workers in the short-term. 
 
 </details>
 <p> </p>
+
 
 <hr style="border:.25px solid grey">
 
 ### Journal Publications
 <p> </p>
 
-1) **[Occupations, organizations, and the structure of wage inequality in the Netherlands](https://christophjanietz.github.io/assets/JanietzBol2020.pdf){:target="_blank"}**, *Research in Social Stratification and Mobility*, (2020). \
-(joint with [Thijs Bol](https://thijsbol.com/){:target="_blank"}) \
+**[Occupations, organizations, and the structure of wage inequality in the Netherlands](https://christophjanietz.github.io/assets/JanietzBol2020.pdf){:target="_blank"}**, *Research in Social Stratification and Mobility*, (2020). \
+(with [Thijs Bol](https://thijsbol.com/){:target="_blank"}) \
 
 <details>
   <summary>Abstract</summary>
