@@ -48,7 +48,7 @@ Wage inequality between workers with different levels of educational attainment 
 <p> </p>
 
 
-**Essential workers and wage inequality: wage differentials before and during the Covid-19 pandemic, 2006 to 2021**
+**Essential workers and wage inequality: wage differentials before and during the Covid-19 pandemic, 2006 to 2022**
 
 <details>
   <summary>Abstract</summary>
