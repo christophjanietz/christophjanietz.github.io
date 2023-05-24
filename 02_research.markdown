@@ -67,6 +67,7 @@ In 2020, several governments declared specific occupations as essential for main
 **[Occupations, organizations, and the structure of wage inequality in the Netherlands](https://christophjanietz.github.io/assets/JanietzBol2020.pdf){:target="_blank"}**, *Research in Social Stratification and Mobility*, 70, (2020). \
 (with [Thijs Bol](https://thijsbol.com/){:target="_blank"}) \
 [bibtex citation](../assets/JanietzBol2020.bib){: .button}{:download}
+[code](https://github.com/christophjanietz/Replication-Files-OccOrgIneqNL-2020){: .button}{:target="_blank"}
 
 <details>
   <summary>Abstract</summary>
