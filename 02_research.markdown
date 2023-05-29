@@ -18,7 +18,7 @@ permalink: /research/
 ### Work in Progress
 <p> </p>
 
-**Occupations and careers within organizations: do organizations amplify wage inequality between occupational classes?**
+**Occupations and careers within organizations: do organizations amplify wage inequality between occupational classes?** \
 Awarded the Vered Kraus Award (RC28 Travel Award, Spring 2023)
 
 <details>
