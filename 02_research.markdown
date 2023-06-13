@@ -19,7 +19,7 @@ permalink: /research/
 <p> </p>
 
 **Occupations and careers within organizations: do organizations amplify wage inequality over time?** \
-Awarded the Vered Kraus Award at the the ISA RC28 Spring Meeting 2023
+Awarded the Vered Kraus Award at the ISA RC28 Spring Meeting 2023
 
 <details>
   <summary>Abstract</summary>
