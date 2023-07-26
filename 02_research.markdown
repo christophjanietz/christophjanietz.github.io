@@ -53,7 +53,7 @@ In 2020, several governments declared specific occupations as essential for main
 </details>
 <p> </p>
 
-**Occupations and careers within organizations: Do organizations facilitate unequal wage growth?** \
+**Occupations and careers within organizations: do organizations facilitate unequal wage growth?** \
 Awarded the Vered Kraus Award at the ISA RC28 Spring Meeting 2023
 
 <details>
