@@ -7,6 +7,7 @@ permalink: /teaching/
 
 
 ### University of Amsterdam
+<p> </p>
 
 - **Bachelor Thesis Seminar** (6 students), 2023, \
 thesis supervision.
@@ -16,5 +17,6 @@ thesis supervision.
 - **Education and Work** (undergraduate level), 2021 
 
 ### Maastricht University College
+<p> </p>
 
 - **Theories of Social Order** (undergraduate level), 2018 
