@@ -11,7 +11,9 @@ title: Christoph Janietz
 
 I am a Postdoctoral researcher at the [Department of Sociology](https://www.rug.nl/gmw/sociology/?lang=en){:target="_blank"} of [University of Groningen](https://www.rug.nl){:target="_blank"} .
 
-I am mostly interested in issues related to social stratification and labor market inequality. I am currently working on the NWO VIDI funded project ["Beyond boardrooms"](https://www.rug.nl/gmw/sociology/news/220708-lippenyi){:target="_blank"} together with principal investigator Zoltán Lippényi and PhD candidate Sören Tumeltshammer. 
+I am mostly interested in issues related to social stratification and labor market inequality. 
+
+I am currently working on the NWO VIDI funded project ["Beyond boardrooms"](https://www.rug.nl/gmw/sociology/news/220708-lippenyi){:target="_blank"} together with principal investigator Zoltán Lippényi and PhD candidate Sören Tumeltshammer. 
 
 In my PhD thesis project completed in 2023 at the University of Amsterdam, I did research on wage inequality in the Netherlands using linked employer-employee population data from the Dutch tax registries. If you want to know more about my research, have a look [here](https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-maatschappij-en-gedragswetenschappen/news/2023/06/wage-inequality-between-organisations-is-growing.html?origin=PDQcb5%2BfSuSJvUewdsszdA){:target="_blank"}.
 
