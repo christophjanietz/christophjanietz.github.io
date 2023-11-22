@@ -34,15 +34,6 @@ Most education systems regulate school entry by using a specific annual cut-off 
 ### Under Review
 <p> </p>
 
-**Temporary employment and wage inequality over the life course** \
-(with [Thijs Bol](https://thijsbol.com/){:target="_blank"} and [Bram Lancee](https://www.bramlancee.eu/){:target="_blank"}).
-<details>
-  <summary>Abstract</summary>
-
-Wage inequality between workers with different levels of educational attainment has been shown to increase over the life course. In this study, we investigate to what extent this growth is explained by temporary employment. Using linked employer-employee register data from the Netherlands, we follow the labor market careers of workers born in 1979. We decompose the impact of temporary employment on the change in the educational wage gap over the life course into two distinct components: (a) changes in the group-specific temporary employment rates (group-specific risk) and (b) changes in the group-specific effects of temporary employment on wages (group-specific vulnerability). In line with previous research, we find a marked growth of the educational wage gap over the life course. While group differences in temporary employment risk changed throughout the observation period to the detriment of lower-educated workers, group differences in vulnerability to temporary employment increased specifically during the early life course. Overall, temporary employment explains approximately 9% of the change in the wage gap between workers with different levels of educational attainment by the age of 38 relative to age 28 in the Netherlands.
-</details>
-<p> </p>
-
 **Essential workers and wage inequality: wage differentials before and during the Covid-19 pandemic, 2006 to 2022**
 
 <details>
@@ -68,6 +59,15 @@ Recent research suggests that occupational positions and organizational structur
 <hr style="border:.25px solid grey">
 
 ### Journal Publications
+<p> </p>
+
+**Temporary employment and wage inequality over the life course** \
+(with [Thijs Bol](https://thijsbol.com/){:target="_blank"} and [Bram Lancee](https://www.bramlancee.eu/){:target="_blank"}).
+<details>
+  <summary>Abstract</summary>
+
+Wage inequality between workers with different levels of educational attainment has been shown to increase over the life course. In this study, we investigate to what extent this growth is explained by temporary employment. Using linked employer-employee register data from the Netherlands, we follow the labor market careers of workers born in 1979. We decompose the impact of temporary employment on the change in the educational wage gap over the life course into two distinct components: (a) changes in the group-specific temporary employment rates (group-specific risk) and (b) changes in the group-specific effects of temporary employment on wages (group-specific vulnerability). In line with previous research, we find a marked growth of the educational wage gap over the life course. While group differences in temporary employment risk changed throughout the observation period to the detriment of lower-educated workers, group differences in vulnerability to temporary employment increased specifically during the early life course. Overall, temporary employment explains approximately 9% of the change in the wage gap between workers with different levels of educational attainment by the age of 38 relative to age 28 in the Netherlands.
+</details>
 <p> </p>
 
 **[Occupations, organizations, and the structure of wage inequality in the Netherlands](https://christophjanietz.github.io/assets/JanietzBol2020.pdf){:target="_blank"}**, *Research in Social Stratification and Mobility*, 70, (2020). \
