@@ -61,7 +61,7 @@ Recent research suggests that occupational positions and organizational structur
 ### Journal Publications
 <p> </p>
 
-**Temporary employment and wage inequality over the life course** \
+**Temporary employment and wage inequality over the life course**, , Forthcoming in *European Sociological Review*. \
 (with [Thijs Bol](https://thijsbol.com/){:target="_blank"} and [Bram Lancee](https://www.bramlancee.eu/){:target="_blank"}).
 <details>
   <summary>Abstract</summary>
