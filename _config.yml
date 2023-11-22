@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  christophjanietz
 author_display: true
 googlescholar_link: https://scholar.google.com/citations?user=N4CLFSgAAAAJ&hl=en
-uni_link: https://www.uva.nl/en/profile/j/a/c.janietz/c.janietz.html
+uni_link: https://www.rug.nl/staff/c.janietz/
 
 nav_ext_links:
   - name: CV
