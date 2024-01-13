@@ -63,7 +63,7 @@ Recent research suggests that occupational positions and organizational structur
 
 **[Temporary employment and wage inequality over the life course](https://christophjanietz.github.io/assets/JanietzBolLancee2023.pdf){:target="_blank"}**, *European Sociological Review*, (2023). \
 (with [Thijs Bol](https://thijsbol.com/){:target="_blank"} and [Bram Lancee](https://www.bramlancee.eu/){:target="_blank"}) \
-[bibtex citation](../assets/JanietzBolLancee2023.bib){: .button}{:download}
+[bibtex citation](../assets/JanietzBolLancee2023.bibtex){: .button}{:download}
 [code](https://github.com/christophjanietz/Replication-Files-TempWageIneqLC-2023){: .button}{:target="_blank"}
 
 <details>
