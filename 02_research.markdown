@@ -16,9 +16,25 @@ permalink: /research/
 
 
 ### Work in Progress
+
 <p> </p>
 
-**The effect of early tracking on relative age effects in education.** \
+**Corporate Boardroom Quotas and Gender Equality in Organizations** \
+(with [Sören Tumeltshammer](https://research.rug.nl/en/persons/s%C3%B6ren-tumeltshammer){:target="_blank"} (first author) and [Zoltán Lippényi](https://www.rug.nl/staff/z.lippenyi/?lang=en){:target="_blank"}) 
+
+<p> </p>
+
+<p> </p>
+
+**Cracks in the glass ceiling? Cross-firm diffusion in top earner gender diversity in the Netherlands** \
+(with [Zoltán Lippényi](https://www.rug.nl/staff/z.lippenyi/?lang=en){:target="_blank"}) 
+
+<p> </p>
+
+
+<p> </p>
+
+**The effect of early tracking on relative age effects in education** \
 (with [Melline Somers](https://www.maastrichtuniversity.nl/m-somers){:target="_blank"} (first author), [Rolf van der Velden](https://www.maastrichtuniversity.nl/r-van-der-velden){:target="_blank"} and [Roxanne Korthals](http://roxannekorthals.com/){:target="_blank"}) 
 <details>
   <summary>Abstract</summary>
@@ -34,7 +50,7 @@ Most education systems regulate school entry by using a specific annual cut-off 
 ### Under Review
 <p> </p>
 
-**Essential workers and wage inequality: wage differentials before and during the Covid-19 pandemic, 2006 to 2022**
+**Essential workers and wage inequality: Wage differentials before and during the Covid-19 pandemic, 2006 to 2022**
 
 <details>
   <summary>Abstract</summary>
@@ -50,7 +66,7 @@ In 2020, several governments declared specific occupations as essential for main
 ### Journal Publications
 <p> </p>
 
-**Occupations and careers within organizations: do organizations facilitate unequal wage growth?**, *Social Science Research*, (Forthcoming). \
+**Occupations and careers within organizations: Do organizations facilitate unequal wage growth?**, *Social Science Research*, (Forthcoming). \
 Awarded the Vered Kraus Award at the ISA RC28 Spring Meeting 2023
 
 <details>
