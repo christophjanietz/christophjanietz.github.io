@@ -108,7 +108,7 @@ Recent studies have identified both occupations and organizations as important s
 ### Other
 <p> </p>
 
-**[Database international school system characteristics and flexibility indicators: Manual](https://christophjanietz.github.io/assets/ROA_TR_2024_3.pdf){:target="_blank"}**, * ROA Technical Reports No. 003*, (2024). \
-(with [Melline Somers](https://www.maastrichtuniversity.nl/m-somers){:target="_blank"} \
+**[Database international school system characteristics and flexibility indicators: Manual](https://christophjanietz.github.io/assets/ROA_TR_2024_3.pdf){:target="_blank"}**, *ROA Technical Reports No. 003*, (2024). \
+(with [Melline Somers](https://www.maastrichtuniversity.nl/m-somers){:target="_blank"}) \
 [database](../assets/Flex_database_3a_International_Flexibility_indicators.xlsx){: .button}{:download}
 
