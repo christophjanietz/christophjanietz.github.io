@@ -102,3 +102,13 @@ Recent studies have identified both occupations and organizations as important s
 </details>
 
 <p> </p>
+
+<hr style="border:.25px solid grey">
+
+### Other
+<p> </p>
+
+**[Database international school system characteristics and flexibility indicators: Manual](https://christophjanietz.github.io/assets/JanietzBol2020.pdf){:target="_blank"}**, * ROA Technical Reports No. 003*, (2024). \
+(with [Melline Somers](https://www.maastrichtuniversity.nl/m-somers){:target="_blank"} \
+[database](../assets/JanietzBol2020.bib){: .button}{:download}
+
