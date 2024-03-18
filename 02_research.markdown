@@ -68,6 +68,7 @@ In 2020, several governments declared specific occupations as essential for main
 
 **Occupations and careers within organizations: Do organizations facilitate unequal wage growth?**, *Social Science Research*, (Forthcoming). \
 Awarded the Vered Kraus Award at the ISA RC28 Spring Meeting 2023
+[code](https://github.com/christophjanietz/Replication-Files-OccCarOrg-2024){: .button}{:target="_blank"}
 
 <details>
   <summary>Abstract</summary>
