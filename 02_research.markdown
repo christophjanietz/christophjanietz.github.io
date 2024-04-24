@@ -107,10 +107,25 @@ Recent studies have identified both occupations and organizations as important s
 
 <hr style="border:.25px solid grey">
 
+### Dissertation
+<p> </p>
+
+**[Inequality at work: Occupations, organizations, and the wage distribution](https://hdl.handle.net/11245.1/dad513af-a49e-4ea2-8936-f18e0969cf2e){:target="_blank"}**, University of Amsterdam, (2024).
+
+<details>
+  <summary>Abstract</summary>
+
+The occupational structure, the aggregate distribution of workers across different job roles that link people to pay, has long served as the dominant framework for understanding the unequal allocation of economic rewards in society. At the same time, recent empirical trends indicate that organizations are accountable for rising wage inequality in many countries. Organizations represent social spaces where economic resources are pooled and decisions regarding their distribution across workers are negotiated. Based on quantitative analyses of large-scale administrative data, this dissertation unpacks how occupations - ‘what’ people work - and organizations - ‘where’ people work - intersect during the formation of wage inequality. It addresses questions regarding the aggregate structure of wage inequality and studies how individual life chances are shaped by occupations and organizations in the Netherlands.
+
+</details>
+
+<p> </p>
+
+<hr style="border:.25px solid grey">
+
 ### Other
 <p> </p>
 
 **[Database international school system characteristics and flexibility indicators: Manual](https://christophjanietz.github.io/assets/ROA_TR_2024_3.pdf){:target="_blank"}**, *ROA Technical Reports No. 003*, (2024). \
 (with [Melline Somers](https://www.maastrichtuniversity.nl/m-somers){:target="_blank"}) \
 [database](../assets/Flex_database_3a_International_Flexibility_indicators.xlsx){: .button}{:download}
-
