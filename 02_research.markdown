@@ -69,20 +69,13 @@ In 2020, several governments declared specific occupations as essential for main
 **[Occupations and careers within organizations: Do organizations facilitate unequal wage growth?](https://christophjanietz.github.io/assets/Janietz2024.pdf){:target="_blank"}**, *Social Science Research*, (2024). \
 Awarded the Vered Kraus Award at the ISA RC28 Spring Meeting 2023 \
 [bibtex citation](../assets/Janietz2024.bibtex){: .button}{:download}
-[code](https://github.com/christophjanietz/Replication-Files-OccCarOrg-2024){: .button}{:target="_blank"}
-
+[code](https://github.com/christophjanietz/Replication-Files-OccCarOrg-2024){: .button}{:target="_blank"} \
+<image src="/assets/img/occ_wagegrowth_org.jpg" alt="Image description"> </image> \
 <details>
   <summary>Abstract</summary>
 
 Recent research suggests that occupational positions and organizational structures intersect during the formation of wage inequality over the working career. Using administrative data from the Netherlands, I investigate whether workers who start in different occupational positions experience unequal wage growth while remaining employed in an organization. Results show that workers in professional and managerial positions experience larger wage growth than workers in lower-status occupational positions. After six years of staying at the same organization, predicted wage growth rates vary between 5.44% for production workers and 10.18% for technical professionals. These findings indicate that occupational stratification has a dynamic component that unfolds at the level of organizations. I test whether occupational sorting across organizations with differing pay quality mediates part of the occupation-based heterogeneity in wage growth. The results indicate that occupational sorting is marked but that sorting explains only up to around 8% of heterogeneity in firm-internal wage growth between occupational positions in the Dutch labor market. 
 
-</details>
-
-<details>
-  <summary>Graphical Abstract</summary>
-
-<image src="/assets/img/occ_wagegrowth_org.jpg" alt="Image description"> </image>
-    
 </details>
 
 <p> </p>
