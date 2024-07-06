@@ -64,7 +64,7 @@ Recent studies have identified both occupations and organizations as important s
 ### Work in Progress
 <p> </p>
 
-## Under Review
+#### Under Review
 <p> </p>
 
 **Essential workers and wage inequality: Wage differentials before and during the Covid-19 pandemic, 2006 to 2022**
@@ -87,7 +87,7 @@ Most education systems regulate school entry by using a specific annual cut-off 
 
 <p> </p>
 
-## In Preparation
+#### In Preparation
 
 **Corporate Boardroom Quotas and Gender Equality in Organizations** \
 (with [Sören Tumeltshammer](https://research.rug.nl/en/persons/s%C3%B6ren-tumeltshammer){:target="_blank"} (first author) and [Zoltán Lippényi](https://www.rug.nl/staff/z.lippenyi/?lang=en){:target="_blank"}) 
