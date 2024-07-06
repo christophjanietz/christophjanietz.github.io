@@ -98,7 +98,7 @@ Wage inequality between workers with different levels of educational attainment 
 (with [Thijs Bol](https://thijsbol.com/){:target="_blank"}) \
 [bibtex citation](../assets/JanietzBol2020.bib){: .button}{:download}
 [code](https://github.com/christophjanietz/Replication-Files-OccOrgIneqNL-2020){: .button}{:target="_blank"}
-<image src="/assets/img/occ_org_percentile.jpg" alt="occ_org_percentile"> </image> 
+<image src="/assets/img/occ_org_percentiles.jpg" alt="occ_org_percentiles"> </image> 
 <details>
   <summary>Abstract</summary>
 
