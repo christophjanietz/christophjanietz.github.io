@@ -77,6 +77,14 @@ Awarded the Vered Kraus Award at the ISA RC28 Spring Meeting 2023 \
 Recent research suggests that occupational positions and organizational structures intersect during the formation of wage inequality over the working career. Using administrative data from the Netherlands, I investigate whether workers who start in different occupational positions experience unequal wage growth while remaining employed in an organization. Results show that workers in professional and managerial positions experience larger wage growth than workers in lower-status occupational positions. After six years of staying at the same organization, predicted wage growth rates vary between 5.44% for production workers and 10.18% for technical professionals. These findings indicate that occupational stratification has a dynamic component that unfolds at the level of organizations. I test whether occupational sorting across organizations with differing pay quality mediates part of the occupation-based heterogeneity in wage growth. The results indicate that occupational sorting is marked but that sorting explains only up to around 8% of heterogeneity in firm-internal wage growth between occupational positions in the Dutch labor market. 
 
 </details>
+
+<details>
+  <summary>Graphical Abstract</summary>
+    
+![Occupational Wage Growth Within Organizations](../assets/img/occ_wagegrowth_org.jpg)
+    
+</details>
+
 <p> </p>
 
 **[Temporary employment and wage inequality over the life course](https://christophjanietz.github.io/assets/JanietzBolLancee2023.pdf){:target="_blank"}**, *European Sociological Review*, (2023). \
@@ -88,13 +96,6 @@ Recent research suggests that occupational positions and organizational structur
   <summary>Abstract</summary>
     
 Wage inequality between workers with different levels of educational attainment has been shown to increase over the life course. In this study, we investigate to what extent this growth is explained by temporary employment. Using linked employer-employee register data from the Netherlands, we follow the labor market careers of workers born in 1979. We decompose the impact of temporary employment on the change in the educational wage gap over the life course into two distinct components: (a) changes in the group-specific temporary employment rates (group-specific risk) and (b) changes in the group-specific effects of temporary employment on wages (group-specific vulnerability). In line with previous research, we find a marked growth of the educational wage gap over the life course. While group differences in temporary employment risk changed throughout the observation period to the detriment of lower-educated workers, group differences in vulnerability to temporary employment increased specifically during the early life course. Overall, temporary employment explains approximately 9% of the change in the wage gap between workers with different levels of educational attainment by the age of 38 relative to age 28 in the Netherlands.  
-    
-</details>
-
-<details>
-  <summary>Graphical Abstract</summary>
-    
-![Occupational Wage Growth Within Organizations](../assets/img/occ_wagegrowth_org.jpg)
     
 </details>
 
