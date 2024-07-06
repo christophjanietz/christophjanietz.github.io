@@ -16,7 +16,16 @@ permalink: /research/
 
 
 ### Work in Progress
+<p> </p>
 
+**Essential workers and wage inequality: Wage differentials before and during the Covid-19 pandemic, 2006 to 2022**
+
+<details>
+  <summary>Abstract</summary>
+
+In 2020, several governments declared specific occupations as essential for maintaining the functioning of society in response to the Covid-19 pandemic. A current question in the public debate on fair pay is whether essential workers are sufficiently remunerated. Using data from the Netherlands, I analyze the wages of essential workers relative to other workers before and during the Covid-19 pandemic. Results indicate that essential workers earn less relative to other workers within higher-paid strata of the occupational structure, while they earn more within lower-paid strata. These wage differentials are shaped by gender composition and sectoral employment. I employ a difference-in-differences design based on quarterly data between January 2017 and September 2022 to assess whether the onset of the Covid-19 pandemic affected wage differentials due to an increasing public appreciation of essential work. Results indicate that the collective experience of the Covid-19 pandemic has not benefited essential workers in the short-term. 
+
+</details>
 <p> </p>
 
 **Corporate Boardroom Quotas and Gender Equality in Organizations** \
