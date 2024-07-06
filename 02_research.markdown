@@ -64,6 +64,9 @@ Recent studies have identified both occupations and organizations as important s
 ### Work in Progress
 <p> </p>
 
+## Under Review
+<p> </p>
+
 **Essential workers and wage inequality: Wage differentials before and during the Covid-19 pandemic, 2006 to 2022**
 
 <details>
@@ -73,6 +76,18 @@ In 2020, several governments declared specific occupations as essential for main
 
 </details>
 <p> </p>
+
+**The effect of early tracking on relative age effects in education** \
+(with [Melline Somers](https://www.maastrichtuniversity.nl/m-somers){:target="_blank"} (first author), [Rolf van der Velden](https://www.maastrichtuniversity.nl/r-van-der-velden){:target="_blank"} and [Roxanne Korthals](http://roxannekorthals.com/){:target="_blank"}) 
+<details>
+  <summary>Abstract</summary>
+
+Most education systems regulate school entry by using a specific annual cut-off date to group children into starting cohorts. Although this practice limits developmental heterogeneity in the classroom, some children still enter school up to almost 12 months younger than the oldest student in the same cohort. These assigned differences in school entry age strongly affect student achievement during the early stages of schooling. Although studies have found a weakening impact of relative age on school performance in higher grades, this effect varies considerably across countries. In this study, we analysed the effect of early tracking on the development of performance gaps in math, science, and reading between relatively old and young students. Relatively young students may be particularly prone to  track misallocation. The different learning environments for relatively old and young students during secondary education may preserve the initial performance gap. Using international test scores from TIMSS, PIRLS, and PISA, we demonstrate the importance of the sampling design in obtaining reliable estimates of the relative age effect. In line with previous research, we observed that the impact of relative age on school performance decreases over time. However, the results of our difference-in-differences analyses suggest that these age inequalities decline less strongly in early-tracking countries.
+</details>
+
+<p> </p>
+
+## In Preparation
 
 **Corporate Boardroom Quotas and Gender Equality in Organizations** \
 (with [Sören Tumeltshammer](https://research.rug.nl/en/persons/s%C3%B6ren-tumeltshammer){:target="_blank"} (first author) and [Zoltán Lippényi](https://www.rug.nl/staff/z.lippenyi/?lang=en){:target="_blank"}) 
@@ -85,16 +100,6 @@ In 2020, several governments declared specific occupations as essential for main
 (with [Zoltán Lippényi](https://www.rug.nl/staff/z.lippenyi/?lang=en){:target="_blank"}) 
 
 <p> </p>
-
-<p> </p>
-
-**The effect of early tracking on relative age effects in education** \
-(with [Melline Somers](https://www.maastrichtuniversity.nl/m-somers){:target="_blank"} (first author), [Rolf van der Velden](https://www.maastrichtuniversity.nl/r-van-der-velden){:target="_blank"} and [Roxanne Korthals](http://roxannekorthals.com/){:target="_blank"}) 
-<details>
-  <summary>Abstract</summary>
-
-Most education systems regulate school entry by using a specific annual cut-off date to group children into starting cohorts. Although this practice limits developmental heterogeneity in the classroom, some children still enter school up to almost 12 months younger than the oldest student in the same cohort. These assigned differences in school entry age strongly affect student achievement during the early stages of schooling. Although studies have found a weakening impact of relative age on school performance in higher grades, this effect varies considerably across countries. In this study, we analysed the effect of early tracking on the development of performance gaps in math, science, and reading between relatively old and young students. Relatively young students may be particularly prone to  track misallocation. The different learning environments for relatively old and young students during secondary education may preserve the initial performance gap. Using international test scores from TIMSS, PIRLS, and PISA, we demonstrate the importance of the sampling design in obtaining reliable estimates of the relative age effect. In line with previous research, we observed that the impact of relative age on school performance decreases over time. However, the results of our difference-in-differences analyses suggest that these age inequalities decline less strongly in early-tracking countries.
-</details>
 
 <p> </p>
 
