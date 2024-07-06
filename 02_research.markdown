@@ -81,7 +81,7 @@ Recent research suggests that occupational positions and organizational structur
 <details>
   <summary>Graphical Abstract</summary>
     
-![Occ](/assets/img/occ_wagegrowth_org.jpg)
+![Occ](../assets/img/occ_wagegrowth_org.jpg){: .button}
     
 </details>
 
