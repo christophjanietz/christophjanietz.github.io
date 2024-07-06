@@ -79,6 +79,7 @@ Recent research suggests that occupational positions and organizational structur
 </details>
 
 <p> </p>
+<p> </p>
 
 **[Temporary employment and wage inequality over the life course](https://christophjanietz.github.io/assets/JanietzBolLancee2023.pdf){:target="_blank"}**, *European Sociological Review*, (2023). \
 (with [Thijs Bol](https://thijsbol.com/){:target="_blank"} and [Bram Lancee](https://www.bramlancee.eu/){:target="_blank"}) \
@@ -92,6 +93,7 @@ Wage inequality between workers with different levels of educational attainment 
     
 </details>
 
+<p> </p>
 <p> </p>
 
 **[Occupations, organizations, and the structure of wage inequality in the Netherlands](https://christophjanietz.github.io/assets/JanietzBol2020.pdf){:target="_blank"}**, *Research in Social Stratification and Mobility*, 70, (2020). \
