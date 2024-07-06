@@ -70,7 +70,7 @@ In 2020, several governments declared specific occupations as essential for main
 Awarded the Vered Kraus Award at the ISA RC28 Spring Meeting 2023 \
 [bibtex citation](../assets/Janietz2024.bibtex){: .button}{:download}
 [code](https://github.com/christophjanietz/Replication-Files-OccCarOrg-2024){: .button}{:target="_blank"} 
-<image src="/assets/img/occ_wagegrowth_org.jpg" alt="Image description"> </image> 
+<image src="/assets/img/occ_wagegrowth_org.jpg" alt="occ_wagegrowth_org"> </image> 
 <details>
   <summary>Abstract</summary>
 
@@ -84,7 +84,7 @@ Recent research suggests that occupational positions and organizational structur
 (with [Thijs Bol](https://thijsbol.com/){:target="_blank"} and [Bram Lancee](https://www.bramlancee.eu/){:target="_blank"}) \
 [bibtex citation](../assets/JanietzBolLancee2023.bibtex){: .button}{:download}
 [code](https://github.com/christophjanietz/Replication-Files-TempWageIneqLC-2023){: .button}{:target="_blank"}
-
+<image src="/assets/img/inequality_lifecourse.jpg" alt="inequality_lifecourse"> </image> 
 <details>
   <summary>Abstract</summary>
     
