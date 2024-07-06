@@ -73,7 +73,8 @@ Awarded the Vered Kraus Award at the ISA RC28 Spring Meeting 2023 \
 
 <details>
   <summary>Abstract</summary>
-
+    
+![Occ](https://github.com/christophjanietz/christophjanietz.github.io/blob/main/assets/img/occ_wagegrowth_org.jpg)
 Recent research suggests that occupational positions and organizational structures intersect during the formation of wage inequality over the working career. Using administrative data from the Netherlands, I investigate whether workers who start in different occupational positions experience unequal wage growth while remaining employed in an organization. Results show that workers in professional and managerial positions experience larger wage growth than workers in lower-status occupational positions. After six years of staying at the same organization, predicted wage growth rates vary between 5.44% for production workers and 10.18% for technical professionals. These findings indicate that occupational stratification has a dynamic component that unfolds at the level of organizations. I test whether occupational sorting across organizations with differing pay quality mediates part of the occupation-based heterogeneity in wage growth. The results indicate that occupational sorting is marked but that sorting explains only up to around 8% of heterogeneity in firm-internal wage growth between occupational positions in the Dutch labor market. 
 
 </details>
@@ -81,7 +82,7 @@ Recent research suggests that occupational positions and organizational structur
 <details>
   <summary>Graphical Abstract</summary>
     
-![Occupational Wage Growth Within Organizations](https://github.com/christophjanietz/christophjanietz.github.io/blob/main/assets/img/occ_wagegrowth_org.jpg)
+![Occ](https://github.com/christophjanietz/christophjanietz.github.io/blob/main/assets/img/occ_wagegrowth_org.jpg)
     
 </details>
 
