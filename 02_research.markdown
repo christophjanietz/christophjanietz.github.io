@@ -14,7 +14,7 @@ permalink: /research/
     }
     </style>
 
-### Publications
+## Publications
 <p> </p>
 
 **[Occupations and careers within organizations: Do organizations facilitate unequal wage growth?](https://christophjanietz.github.io/assets/Janietz2024.pdf){:target="_blank"}**, *Social Science Research*, (2024). \
@@ -61,10 +61,10 @@ Recent studies have identified both occupations and organizations as important s
 
 <hr style="border:.25px solid grey">
 
-### Work in Progress
+## Work in Progress
 <p> </p>
 
-#### Under Review
+### Under Review
 <p> </p>
 
 **Essential workers and wage inequality: Wage differentials before and during the Covid-19 pandemic, 2006 to 2022**
@@ -87,7 +87,7 @@ Most education systems regulate school entry by using a specific annual cut-off 
 
 <p> </p>
 
-#### In Preparation
+### In Preparation
 
 **Corporate Boardroom Quotas and Gender Equality in Organizations** \
 (with [Sören Tumeltshammer](https://research.rug.nl/en/persons/s%C3%B6ren-tumeltshammer){:target="_blank"} (first author) and [Zoltán Lippényi](https://www.rug.nl/staff/z.lippenyi/?lang=en){:target="_blank"}) 
@@ -105,7 +105,7 @@ Most education systems regulate school entry by using a specific annual cut-off 
 
 <hr style="border:.25px solid grey">
 
-### Dissertation
+## Dissertation
 <p> </p>
 
 **[Inequality at work: Occupations, organizations, and the wage distribution](https://hdl.handle.net/11245.1/dad513af-a49e-4ea2-8936-f18e0969cf2e){:target="_blank"}**, University of Amsterdam, (2024).
@@ -121,7 +121,7 @@ The occupational structure, the aggregate distribution of workers across differe
 
 <hr style="border:.25px solid grey">
 
-### Other
+## Other
 <p> </p>
 
 **[Database international school system characteristics and flexibility indicators: Manual](https://christophjanietz.github.io/assets/ROA_TR_2024_3.pdf){:target="_blank"}**, *ROA Technical Reports No. 003*, (2024). \
