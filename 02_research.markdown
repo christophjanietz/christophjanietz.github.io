@@ -14,47 +14,6 @@ permalink: /research/
     }
     </style>
 
-
-### Work in Progress
-<p> </p>
-
-**Essential workers and wage inequality: Wage differentials before and during the Covid-19 pandemic, 2006 to 2022**
-
-<details>
-  <summary>Abstract</summary>
-
-In 2020, several governments declared specific occupations as essential for maintaining the functioning of society in response to the Covid-19 pandemic. A current question in the public debate on fair pay is whether essential workers are sufficiently remunerated. Using data from the Netherlands, I analyze the wages of essential workers relative to other workers before and during the Covid-19 pandemic. Results indicate that essential workers earn less relative to other workers within higher-paid strata of the occupational structure, while they earn more within lower-paid strata. These wage differentials are shaped by gender composition and sectoral employment. I employ a difference-in-differences design based on quarterly data between January 2017 and September 2022 to assess whether the onset of the Covid-19 pandemic affected wage differentials due to an increasing public appreciation of essential work. Results indicate that the collective experience of the Covid-19 pandemic has not benefited essential workers in the short-term. 
-
-</details>
-<p> </p>
-
-**Corporate Boardroom Quotas and Gender Equality in Organizations** \
-(with [Sören Tumeltshammer](https://research.rug.nl/en/persons/s%C3%B6ren-tumeltshammer){:target="_blank"} (first author) and [Zoltán Lippényi](https://www.rug.nl/staff/z.lippenyi/?lang=en){:target="_blank"}) 
-
-<p> </p>
-
-<p> </p>
-
-**Cracks in the glass ceiling? Cross-firm diffusion in top earner gender diversity in the Netherlands** \
-(with [Zoltán Lippényi](https://www.rug.nl/staff/z.lippenyi/?lang=en){:target="_blank"}) 
-
-<p> </p>
-
-
-<p> </p>
-
-**The effect of early tracking on relative age effects in education** \
-(with [Melline Somers](https://www.maastrichtuniversity.nl/m-somers){:target="_blank"} (first author), [Rolf van der Velden](https://www.maastrichtuniversity.nl/r-van-der-velden){:target="_blank"} and [Roxanne Korthals](http://roxannekorthals.com/){:target="_blank"}) 
-<details>
-  <summary>Abstract</summary>
-
-Most education systems regulate school entry by using a specific annual cut-off date to group children into starting cohorts. Although this practice limits developmental heterogeneity in the classroom, some children still enter school up to almost 12 months younger than the oldest student in the same cohort. These assigned differences in school entry age strongly affect student achievement during the early stages of schooling. Although studies have found a weakening impact of relative age on school performance in higher grades, this effect varies considerably across countries. In this study, we analysed the effect of early tracking on the development of performance gaps in math, science, and reading between relatively old and young students. Relatively young students may be particularly prone to  track misallocation. The different learning environments for relatively old and young students during secondary education may preserve the initial performance gap. Using international test scores from TIMSS, PIRLS, and PISA, we demonstrate the importance of the sampling design in obtaining reliable estimates of the relative age effect. In line with previous research, we observed that the impact of relative age on school performance decreases over time. However, the results of our difference-in-differences analyses suggest that these age inequalities decline less strongly in early-tracking countries.
-</details>
-
-<p> </p>
-
-<hr style="border:.25px solid grey">
-
 ### Publications
 <p> </p>
 
@@ -96,6 +55,45 @@ Wage inequality between workers with different levels of educational attainment 
 
 Recent studies have identified both occupations and organizations as important structures underpinning wage inequality in the labor market. In this article we investigate how the two structures might work together in explaining inequality. More specifically, we study how organizations affect between- and within-occupation inequality. Using a combination of Dutch linked employer-employee register data and the Dutch labor force survey, we find that organizations are more important in explaining wage differentials between occupations than wage inequality between workers with the same occupation. While organizations are far away from solely driving heterogeneity in pay among workers in the same occupation, we find that the sorting of high-paying occupations in high-paying firms (and vice versa) is an important mechanism by which both structures affect inequality. Our findings emphasize the importance of moving away from an isolated study of occupations or organizations towards an analytical integration of both structures for understanding wage inequality. 
 
+</details>
+
+<p> </p>
+
+<hr style="border:.25px solid grey">
+
+### Work in Progress
+<p> </p>
+
+**Essential workers and wage inequality: Wage differentials before and during the Covid-19 pandemic, 2006 to 2022**
+
+<details>
+  <summary>Abstract</summary>
+
+In 2020, several governments declared specific occupations as essential for maintaining the functioning of society in response to the Covid-19 pandemic. A current question in the public debate on fair pay is whether essential workers are sufficiently remunerated. Using data from the Netherlands, I analyze the wages of essential workers relative to other workers before and during the Covid-19 pandemic. Results indicate that essential workers earn less relative to other workers within higher-paid strata of the occupational structure, while they earn more within lower-paid strata. These wage differentials are shaped by gender composition and sectoral employment. I employ a difference-in-differences design based on quarterly data between January 2017 and September 2022 to assess whether the onset of the Covid-19 pandemic affected wage differentials due to an increasing public appreciation of essential work. Results indicate that the collective experience of the Covid-19 pandemic has not benefited essential workers in the short-term. 
+
+</details>
+<p> </p>
+
+**Corporate Boardroom Quotas and Gender Equality in Organizations** \
+(with [Sören Tumeltshammer](https://research.rug.nl/en/persons/s%C3%B6ren-tumeltshammer){:target="_blank"} (first author) and [Zoltán Lippényi](https://www.rug.nl/staff/z.lippenyi/?lang=en){:target="_blank"}) 
+
+<p> </p>
+
+<p> </p>
+
+**Cracks in the glass ceiling? Cross-firm diffusion in top earner gender diversity in the Netherlands** \
+(with [Zoltán Lippényi](https://www.rug.nl/staff/z.lippenyi/?lang=en){:target="_blank"}) 
+
+<p> </p>
+
+<p> </p>
+
+**The effect of early tracking on relative age effects in education** \
+(with [Melline Somers](https://www.maastrichtuniversity.nl/m-somers){:target="_blank"} (first author), [Rolf van der Velden](https://www.maastrichtuniversity.nl/r-van-der-velden){:target="_blank"} and [Roxanne Korthals](http://roxannekorthals.com/){:target="_blank"}) 
+<details>
+  <summary>Abstract</summary>
+
+Most education systems regulate school entry by using a specific annual cut-off date to group children into starting cohorts. Although this practice limits developmental heterogeneity in the classroom, some children still enter school up to almost 12 months younger than the oldest student in the same cohort. These assigned differences in school entry age strongly affect student achievement during the early stages of schooling. Although studies have found a weakening impact of relative age on school performance in higher grades, this effect varies considerably across countries. In this study, we analysed the effect of early tracking on the development of performance gaps in math, science, and reading between relatively old and young students. Relatively young students may be particularly prone to  track misallocation. The different learning environments for relatively old and young students during secondary education may preserve the initial performance gap. Using international test scores from TIMSS, PIRLS, and PISA, we demonstrate the importance of the sampling design in obtaining reliable estimates of the relative age effect. In line with previous research, we observed that the impact of relative age on school performance decreases over time. However, the results of our difference-in-differences analyses suggest that these age inequalities decline less strongly in early-tracking countries.
 </details>
 
 <p> </p>
