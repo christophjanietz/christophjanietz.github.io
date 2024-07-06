@@ -63,7 +63,7 @@ In 2020, several governments declared specific occupations as essential for main
 
 <hr style="border:.25px solid grey">
 
-### Journal Publications
+### Publications
 <p> </p>
 
 **[Occupations and careers within organizations: Do organizations facilitate unequal wage growth?](https://christophjanietz.github.io/assets/Janietz2024.pdf){:target="_blank"}**, *Social Science Research*, (2024). \
