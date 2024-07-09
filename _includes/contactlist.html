@@ -34,6 +34,12 @@
   </li>
   {% endif %}
 
+  {% if site.osf_link %}
+  <li>
+    {% include _icons/osf.html link=site.osf_link %}
+  </li>
+  {% endif %}
+
   {% if site.uni_link %}
   <li>
     {% include _icons/uni.html link=site.uni_link %}
