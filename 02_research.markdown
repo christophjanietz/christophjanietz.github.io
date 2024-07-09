@@ -48,6 +48,7 @@ Wage inequality between workers with different levels of educational attainment 
 
 **[Occupations, organizations, and the structure of wage inequality in the Netherlands](https://christophjanietz.github.io/assets/JanietzBol2020.pdf){:target="_blank"}**, *Research in Social Stratification and Mobility*, 70, (2020). \
 (with [Thijs Bol](https://thijsbol.com/){:target="_blank"}) \
+[article](https://doi.org/10.1016/j.rssm.2019.100468){: .button}{:target="_blank"}
 [bibtex citation](../assets/JanietzBol2020.bib){: .button}{:download}
 [code](https://osf.io/sf4q6/){: .button}{:target="_blank"}
 <image src="/assets/img/occ_org_percentiles.jpg" alt="occ_org_percentiles"> </image> 
