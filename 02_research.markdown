@@ -118,7 +118,8 @@ Our paper contributes to recent efforts by institutional scholars to understand 
 ## Dissertation
 <p> </p>
 
-**[Inequality at work: Occupations, organizations, and the wage distribution](https://hdl.handle.net/11245.1/dad513af-a49e-4ea2-8936-f18e0969cf2e){:target="_blank"}**, University of Amsterdam, (2024).
+**[Inequality at work: Occupations, organizations, and the wage distribution](https://hdl.handle.net/11245.1/dad513af-a49e-4ea2-8936-f18e0969cf2e){:target="_blank"}**, University of Amsterdam, (2024). \
+[Thesis](https://hdl.handle.net/11245.1/dad513af-a49e-4ea2-8936-f18e0969cf2e){: .button}{:target="_blank"}
 <image src="/assets/img/cover_dissertation.jpg" alt="cover_dissertation"> </image> 
 <details>
   <summary>Abstract</summary>
