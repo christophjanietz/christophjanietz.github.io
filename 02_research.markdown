@@ -34,6 +34,7 @@ Recent research suggests that occupational positions and organizational structur
 
 **[Temporary employment and wage inequality over the life course](https://christophjanietz.github.io/assets/JanietzBolLancee2023.pdf){:target="_blank"}**, *European Sociological Review*, (2023). \
 (with [Thijs Bol](https://thijsbol.com/){:target="_blank"} and [Bram Lancee](https://www.bramlancee.eu/){:target="_blank"}) \
+[Article](https://doi.org/10.1093/esr/jcad075){: .button}{:target="_blank"}
 [bibtex citation](../assets/JanietzBolLancee2023.bibtex){: .button}{:download}
 [code](https://osf.io/y7tnx/){: .button}{:target="_blank"}
 <image src="/assets/img/inequality_lifecourse.jpg" alt="inequality_lifecourse"> </image> 
@@ -48,7 +49,7 @@ Wage inequality between workers with different levels of educational attainment 
 
 **[Occupations, organizations, and the structure of wage inequality in the Netherlands](https://christophjanietz.github.io/assets/JanietzBol2020.pdf){:target="_blank"}**, *Research in Social Stratification and Mobility*, 70, (2020). \
 (with [Thijs Bol](https://thijsbol.com/){:target="_blank"}) \
-[article](https://doi.org/10.1016/j.rssm.2019.100468){: .button}{:target="_blank"}
+[Article](https://doi.org/10.1016/j.rssm.2019.100468){: .button}{:target="_blank"}
 [bibtex citation](../assets/JanietzBol2020.bib){: .button}{:download}
 [code](https://osf.io/sf4q6/){: .button}{:target="_blank"}
 <image src="/assets/img/occ_org_percentiles.jpg" alt="occ_org_percentiles"> </image> 
