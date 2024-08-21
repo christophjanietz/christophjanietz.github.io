@@ -93,6 +93,10 @@ Most education systems regulate school entry by using a specific annual cut-off 
 ### In Preparation
 <p> </p>
 
+**The prevalence, extent, and persistence of the glass ceiling in Dutch organizations: Evidence using linked-employer-employee data, 2011-2022**
+
+<p> </p>
+
 **Corporate Boardroom Quotas and Gender Equality in Organizations** \
 (with [Sören Tumeltshammer](https://research.rug.nl/en/persons/s%C3%B6ren-tumeltshammer){:target="_blank"} (first author) and [Zoltán Lippényi](https://www.rug.nl/staff/z.lippenyi/?lang=en){:target="_blank"}) 
 
@@ -112,8 +116,6 @@ Our paper contributes to recent efforts by institutional scholars to understand 
 </details>
 
 <p> </p>
-
-**The prevalence, extent, and persistence of the glass ceiling in Dutch organizations: Evidence using linked-employer-employee data, 2011-2022** \
 
 <hr style="border:.25px solid grey">
 
