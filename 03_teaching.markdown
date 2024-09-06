@@ -8,7 +8,7 @@ permalink: /teaching/
 ### University of Groningen
 <p> </p>
 
-- **Policy Design** (Master Sociology), 2024 
+- **Beleidsontwerp [Policy Design]** (Master Sociology), 2024 
 
 ### University of Amsterdam
 <p> </p>
