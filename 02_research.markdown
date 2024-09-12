@@ -70,7 +70,8 @@ Recent studies have identified both occupations and organizations as important s
 ### Under Review
 <p> </p>
 
-**Essential workers and wage inequality: Wage differentials before and during the Covid-19 pandemic, 2006 to 2022**
+**Essential workers and wage inequality: Wage differentials before and during the Covid-19 pandemic, 2006 to 2022** \
+[code](https://osf.io/YT4DJ/){: .button}{:target="_blank"}
 <image src="/assets/img/ess_worker_wages.jpg" alt="ess_worker_wages"> </image>
 <details>
   <summary>Abstract</summary>
