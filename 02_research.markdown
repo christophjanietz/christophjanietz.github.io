@@ -17,9 +17,9 @@ permalink: /research/
 ## Publications
 <p> </p>
 
-**[Occupations and careers within organizations: Do organizations facilitate unequal wage growth?](https://christophjanietz.github.io/assets/Janietz2024.pdf){:target="_blank"}**, *Social Science Research*, (2024). \
+**[Occupations and careers within organizations: Do organizations facilitate unequal wage growth?](https://doi.org/10.1016/j.ssresearch.2024.103005){:target="_blank"}**, *Social Science Research*, (2024). \
 Awarded the Vered Kraus Award at the ISA RC28 Spring Meeting 2023 \
-[Article](https://doi.org/10.1016/j.ssresearch.2024.103005){: .button}{:target="_blank"}
+[Article](https://christophjanietz.github.io/assets/Janietz2024.pdf){: .button}{:target="_blank"}
 [bibtex citation](../assets/Janietz2024.bibtex){: .button}{:download}
 [code](https://osf.io/eymg8/){: .button}{:target="_blank"} 
 <details>
