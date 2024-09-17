@@ -37,7 +37,7 @@ Recent research suggests that occupational positions and organizational structur
 [Article](https://doi.org/10.1093/esr/jcad075){: .button}{:target="_blank"}
 [bibtex citation](../assets/JanietzBolLancee2023.bibtex){: .button}{:download}
 [code](https://osf.io/y7tnx/){: .button}{:target="_blank"}
-<image src="/assets/img/inequality_lifecourse.jpg" alt="inequality_lifecourse"> </image> 
+<image src="/assets/img/inequality_lifecourse.jpg" alt="inequality_lifecourse" width="500"> </image> 
 <details>
   <summary>Abstract</summary>
     
@@ -52,7 +52,7 @@ Wage inequality between workers with different levels of educational attainment 
 [Article](https://doi.org/10.1016/j.rssm.2019.100468){: .button}{:target="_blank"}
 [bibtex citation](../assets/JanietzBol2020.bib){: .button}{:download}
 [code](https://osf.io/sf4q6/){: .button}{:target="_blank"}
-<image src="/assets/img/occ_org_percentiles.jpg" alt="occ_org_percentiles"> </image> 
+<image src="/assets/img/occ_org_percentiles.jpg" alt="occ_org_percentiles" width="500"> </image> 
 <details>
   <summary>Abstract</summary>
 
@@ -72,7 +72,7 @@ Recent studies have identified both occupations and organizations as important s
 
 **Essential workers and wage inequality: Wage differentials before and during the Covid-19 pandemic, 2006 to 2022** \
 [code](https://osf.io/YT4DJ/){: .button}{:target="_blank"}
-<image src="/assets/img/ess_worker_wages.jpg" alt="ess_worker_wages"> </image>
+<image src="/assets/img/ess_worker_wages.jpg" alt="ess_worker_wages" width="500"> </image>
 <details>
   <summary>Abstract</summary>
 
@@ -125,7 +125,7 @@ Our paper contributes to recent efforts by institutional scholars to understand 
 
 **[Inequality at work: Occupations, organizations, and the wage distribution](https://hdl.handle.net/11245.1/dad513af-a49e-4ea2-8936-f18e0969cf2e){:target="_blank"}**, University of Amsterdam, (2024). \
 [Thesis](https://hdl.handle.net/11245.1/dad513af-a49e-4ea2-8936-f18e0969cf2e){: .button}{:target="_blank"}
-<image src="/assets/img/cover_dissertation.jpg" alt="cover_dissertation"> </image> 
+<image src="/assets/img/cover_dissertation.jpg" alt="cover_dissertation" width="500"> </image> 
 <details>
   <summary>Abstract</summary>
 
