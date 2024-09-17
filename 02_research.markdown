@@ -22,7 +22,10 @@ Awarded the Vered Kraus Award at the ISA RC28 Spring Meeting 2023 \
 [Article](https://doi.org/10.1016/j.ssresearch.2024.103005){: .button}{:target="_blank"}
 [bibtex citation](../assets/Janietz2024.bibtex){: .button}{:download}
 [code](https://osf.io/eymg8/){: .button}{:target="_blank"} 
+<details>
+  <summary>Graphical Abstract</summary>
 <image src="/assets/img/occ_wagegrowth_org.jpg" alt="occ_wagegrowth_org" width="500"> </image> 
+</details>
 <details>
   <summary>Abstract</summary>
 
