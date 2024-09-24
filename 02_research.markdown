@@ -106,7 +106,7 @@ Most education systems regulate school entry by using a specific annual cut-off 
 ### In Preparation
 <p> </p>
 
-**The prevalence, extent, and persistence of the glass ceiling in Dutch organizations: Evidence using linked-employer-employee data, 2011-2022**
+**The prevalence, extent, and persistence of the glass ceiling: An organizational approach using linked-employer-employee data**
 
 <p> </p>
 
