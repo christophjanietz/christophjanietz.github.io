@@ -106,7 +106,7 @@ Most education systems regulate school entry by using a specific annual cut-off 
 ### In Preparation
 <p> </p>
 
-**The prevalence, extent, and persistence of the glass ceiling: An organizational approach using linked-employer-employee data**
+**The glass ceiling and its prevalence, extent, and persistence: An organizational approach using linked-employer-employee data**
 
 <p> </p>
 
