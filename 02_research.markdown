@@ -17,7 +17,7 @@ permalink: /research/
 ## Publications
 <p> </p>
 
-**[Occupations and careers within organizations: Do organizations facilitate unequal wage growth?](https://doi.org/10.1016/j.ssresearch.2024.103005){:target="_blank"}**, *Social Science Research*, (2024). \
+**[Occupations and careers within organizations: Do organizations facilitate unequal wage growth?](https://doi.org/10.1016/j.ssresearch.2024.103005){:target="_blank"}**, *Social Science Research*, 120, (2024). \
 Awarded the Vered Kraus Award at the ISA RC28 Spring Meeting 2023 \
 [Article](https://christophjanietz.github.io/assets/Janietz2024.pdf){: .button}{:target="_blank"}
 [bibtex citation](../assets/Janietz2024.bibtex){: .button}{:download}
@@ -35,7 +35,7 @@ Recent research suggests that occupational positions and organizational structur
 
 <p> </p>
 
-**[Temporary employment and wage inequality over the life course](https://doi.org/10.1093/esr/jcad075){:target="_blank"}**, *European Sociological Review*, (2023). \
+**[Temporary employment and wage inequality over the life course](https://doi.org/10.1093/esr/jcad075){:target="_blank"}**, *European Sociological Review*, 40(5): 853-871, (2024). \
 (with [Thijs Bol](https://thijsbol.com/){:target="_blank"} and [Bram Lancee](https://www.bramlancee.eu/){:target="_blank"}) \
 [Article](https://christophjanietz.github.io/assets/JanietzBolLancee2023.pdf){: .button}{:target="_blank"}
 [bibtex citation](../assets/JanietzBolLancee2023.bibtex){: .button}{:download}
