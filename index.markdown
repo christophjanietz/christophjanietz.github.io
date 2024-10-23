@@ -9,7 +9,7 @@ title: Christoph Janietz
 
 ### Hi,
 
-I am a Postdoctoral researcher at the [Department of Sociology](https://www.rug.nl/gmw/sociology/?lang=en){:target="_blank"} of [University of Groningen](https://www.rug.nl){:target="_blank"} .
+I am a postdoctoral researcher at the [Department of Sociology](https://www.rug.nl/gmw/sociology/?lang=en){:target="_blank"} of [University of Groningen](https://www.rug.nl){:target="_blank"} .
 
 In my research, I am studying issues related to social stratification and labor market inequality. 
 
