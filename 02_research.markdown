@@ -17,6 +17,20 @@ permalink: /research/
 ## Publications
 <p> </p>
 
+**Essential workers and wage inequality: Wage differentials before and during the Covid-19 pandemic, 2006 to 2022**, *European Societies*, (Forthcoming).\
+[code](https://osf.io/YT4DJ/){: .button}{:target="_blank"}
+<details>
+  <summary>Graphical abstract</summary>
+  <image src="/assets/img/ess_worker_wages.jpg" alt="ess_worker_wages" width="600"> </image>
+</details>
+<details>
+  <summary>Abstract</summary>
+
+In 2020, several governments declared specific occupations as essential for maintaining the functioning of society in response to the Covid-19 pandemic. A current question in the public debate on fair pay is whether essential workers are sufficiently remunerated. Using data from the Netherlands, I analyze the wages of essential workers relative to other workers before and during the Covid-19 pandemic. Results indicate that essential workers earn less relative to other workers within higher-paid strata of the occupational structure, while they earn more within lower-paid strata. These wage differentials are shaped by gender composition and sectoral employment. I employ a difference-in-differences design based on quarterly data between January 2017 and September 2022 to assess whether the onset of the Covid-19 pandemic affected wage differentials due to an increasing public appreciation of essential work. Results indicate that the collective experience of the Covid-19 pandemic has not benefited essential workers in the short-term. 
+
+</details>
+<p> </p>
+
 **[Occupations and careers within organizations: Do organizations facilitate unequal wage growth?](https://doi.org/10.1016/j.ssresearch.2024.103005){:target="_blank"}**, *Social Science Research*, 120, (2024). \
 Awarded the Vered Kraus Award at the ISA RC28 Spring Meeting 2023 \
 [Article](https://christophjanietz.github.io/assets/Janietz2024.pdf){: .button}{:target="_blank"}
@@ -77,20 +91,6 @@ Recent studies have identified both occupations and organizations as important s
 <p> </p>
 
 ### Under Review
-<p> </p>
-
-**Essential workers and wage inequality: Wage differentials before and during the Covid-19 pandemic, 2006 to 2022** \
-[code](https://osf.io/YT4DJ/){: .button}{:target="_blank"}
-<details>
-  <summary>Graphical abstract</summary>
-  <image src="/assets/img/ess_worker_wages.jpg" alt="ess_worker_wages" width="600"> </image>
-</details>
-<details>
-  <summary>Abstract</summary>
-
-In 2020, several governments declared specific occupations as essential for maintaining the functioning of society in response to the Covid-19 pandemic. A current question in the public debate on fair pay is whether essential workers are sufficiently remunerated. Using data from the Netherlands, I analyze the wages of essential workers relative to other workers before and during the Covid-19 pandemic. Results indicate that essential workers earn less relative to other workers within higher-paid strata of the occupational structure, while they earn more within lower-paid strata. These wage differentials are shaped by gender composition and sectoral employment. I employ a difference-in-differences design based on quarterly data between January 2017 and September 2022 to assess whether the onset of the Covid-19 pandemic affected wage differentials due to an increasing public appreciation of essential work. Results indicate that the collective experience of the Covid-19 pandemic has not benefited essential workers in the short-term. 
-
-</details>
 <p> </p>
 
 **The effect of early tracking on relative age effects in education** \
