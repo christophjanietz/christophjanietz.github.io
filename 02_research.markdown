@@ -111,6 +111,10 @@ Most education systems regulate school entry by using a specific annual cut-off 
 **The glass ceiling and its prevalence, extent, and persistence: An organizational approach using linked-employer-employee data**
 
 <p> </p>
+<details>
+  <summary>Graphical abstract</summary>
+  <image src="/assets/img/withinq_all_2022.jpg" alt="withinq_all_2022" width="600"> </image>
+</details>
 
 **Corporate Boardroom Quotas and Gender Equality in Organizations** \
 (with [Sören Tumeltshammer](https://research.rug.nl/en/persons/s%C3%B6ren-tumeltshammer){:target="_blank"} (first author) and [Zoltán Lippényi](https://www.rug.nl/staff/z.lippenyi/?lang=en){:target="_blank"}) 
