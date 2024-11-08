@@ -108,13 +108,19 @@ Most education systems regulate school entry by using a specific annual cut-off 
 ### In Preparation
 <p> </p>
 
-**The glass ceiling and its prevalence, extent, and persistence: An organizational approach using linked-employer-employee data**
+**Variability and change of the glass ceiling: An organizational approach using linked-employer-employee data**
 
 <p> </p>
 <details>
   <summary>Graphical abstract</summary>
   <image src="/assets/img/withinq_all_2022.jpg" alt="withinq_all_2022" width="600"> </image>
 </details>
+<details>
+  <summary>Abstract</summary>
+
+In its original conception, the metaphor of the glass ceiling has clear organizational roots. It describes a vertical form of job sex segregation by portraying the hidden, but systemic, barriers that prevent women from climbing career ladders within organizations. Yet, research that treats the glass ceiling as an organizational phenomenon  has often been limited to single-firm or single-industry case studies due to data constraints. In this paper, I leverage administrative linked employer-employee earnings data from 2011 to 2023 to comprehensively describe variability and change of the glass ceiling in the total population of larger organizations in the Netherlands. I explicitly conceptualize the glass ceiling as an organization-level outcome captured by the under-representation of women in the highest-paid jobs within an organization. Based on earnings data available for all existing jobs, I fully reconstruct the existing job hierarchy in each organization and trace the distribution of men and women within it. I demonstrate the advantages of this approach by testing several hypotheses regarding the extent to which the glass ceiling varies both between organizations and within organizations across time.
+</details>
+<p> </p>
 
 <p> </p>
 
