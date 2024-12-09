@@ -18,9 +18,9 @@ permalink: /data/
 <p> </p>
 
 **[NIDIO - Netherlands Integrated Data Infrastructure of Inequality in Organizations](https://osf.io/9b2xh/){:target="_blank"}** \
-[Manual](../assets/nidio_manual_v1.0.pdf){: .button}{:download}
-[OSF](https://www.osf.io/9b2xh){: .button}{:target="_blank"}
-[GitHub](https://www.github.com/christophjanietz/NIDIO-Code){: .button}{:target="_blank"}
+[Manual](../assets/NIDIO_manual_v1.0.pdf){: .button}{:download}
+[OSF Repository](https://www.osf.io/9b2xh){: .button}{:target="_blank"}
+[Code](https://www.github.com/christophjanietz/NIDIO-Code){: .button}{:target="_blank"}
 <p> </p>
 <image src="/assets/img/nidio-overview.pdf" alt="nidio-overview.pdf" width="600"> </image>
 <p> </p>
