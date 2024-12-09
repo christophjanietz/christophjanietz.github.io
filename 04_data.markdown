@@ -22,7 +22,7 @@ permalink: /data/
 [OSF Repository](https://www.osf.io/9b2xh){: .button}{:target="_blank"}
 [Code](https://www.github.com/christophjanietz/NIDIO-Code){: .button}{:target="_blank"}
 <p> </p>
-<image src="/assets/img/nidio-overview.jpg" alt="nidio-overview" width="600"> </image>
+<image src="/assets/img/nidio_overview.jpg" alt="nidio_overview" width="600"> </image>
 <p> </p>
 NIDIO is an open-source code infrastructure assisting with the use of Dutch administrative register data. It is built around administrative data provided by Statistics Netherlands (CBS) in the Microdata Services Remote Access Environment (RA). NIDIO facilitates the study of inequality within and between Dutch organizations by integrating various administrative source data into a harmonized three-level data structure (organizations, individuals, and jobs). NIDIO helps to reconstruct workers’ demographic profiles and employment outcomes (e.g., wages) and links them to organizational characteristics.
 
