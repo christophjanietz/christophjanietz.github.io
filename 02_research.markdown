@@ -124,9 +124,14 @@ In its original conception, the metaphor of the glass ceiling has clear organiza
 
 <p> </p>
 
-**Corporate Boardroom Quotas and Gender Equality in Organizations** \
+**Broader Impact of Boardroom Quotas: the Dutch Quota and Gender Wage Equality within Organizations** \
 (with [Sören Tumeltshammer](https://research.rug.nl/en/persons/s%C3%B6ren-tumeltshammer){:target="_blank"} (first author) and [Zoltán Lippényi](https://www.rug.nl/staff/z.lippenyi/?lang=en){:target="_blank"}) 
 
+<p> </p>
+<details>
+  <summary>Abstract</summary>
+There are ongoing discussions whether corporate boardroom quotas impact gender equality within organizations beyond the level of leadership. We examine the impact of the Dutch target law – a weakly enforced quota policy applied to a wide range of firms – on gender wage disparities and female representation across organizational levels. Using linked employer-employee register data and regression discontinuity and difference-in-differences designs, we find evidence that the Dutch quota reduced the gender wage gap in targeted firms. Over nine years post-implementation, the gap narrowed by €0.60 more in quota-targeted firms, compared to non-targeted firms. Furthermore, quotas increased women’s representation in higher organizational echelons below the leadership level, with evidence suggesting a gradual shift towards greater gender parity in top income quar-tiles. These findings emphasize the potential of boardroom quotas, even with weak enforcement, to promote gender equality beyond leadership levels, offering critical insights for policymakers and organizational theorists.
+</details>
 <p> </p>
 
 **Cracks in the glass ceiling? Cross-firm diffusion in top earner gender diversity in the Netherlands** \
