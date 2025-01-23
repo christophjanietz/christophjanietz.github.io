@@ -134,7 +134,7 @@ There are ongoing discussions whether corporate boardroom quotas impact gender e
 </details>
 <p> </p>
 
-**Cracks in the glass ceiling? Cross-firm diffusion in top earner gender diversity in the Netherlands** \
+**Cracks in the glass ceiling? Inter-firm diffusion of gender diversity among company executives following quota regulation in the Netherlands** \
 (with [Zoltán Lippényi](https://www.rug.nl/staff/z.lippenyi/?lang=en){:target="_blank"}) 
 <details>
   <summary>Abstract</summary>
