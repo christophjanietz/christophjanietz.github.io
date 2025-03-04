@@ -14,7 +14,7 @@ permalink: /visualizations/
     }
     </style>
 
-## Sex and ethnic segregation across wage ranks in Dutch organizations, 2011-2023 [(Link)](https://cjanietz.shinyapps.io/segregation_wageranks_NL/){:target="_blank"}**
+## Sex and ethnic segregation across wage ranks in Dutch organizations, 2011-2023 [(Link)](https://cjanietz.shinyapps.io/segregation_wageranks_NL/){:target="_blank"}
 <p> </p>
 
 <html>
