@@ -14,6 +14,9 @@ permalink: /visualizations/
     }
     </style>
 
+## Sex and ethnic segregation across wage ranks in Dutch organizations, 2011-2023
+<p> </p>
+
 <html>
 <head><title>Sex and ethnic segregation across wage ranks in Dutch organizations, 2011-2023</title></head>
 <body>
