@@ -145,6 +145,11 @@ Women remain underrepresented in organizational leadership positions throughout 
 
 <p> </p>
 
+**Leaving for More or Settling for Less: Gendered Salary Trajectories after Leaving Academia** \
+(with Anne Maaike Mulders (first author), Bas Hofstra, and Jochem Tolsma) 
+
+<p> </p>
+
 <hr style="border:.25px solid grey">
 
 ## Dissertation
