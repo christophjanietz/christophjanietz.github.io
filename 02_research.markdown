@@ -105,6 +105,11 @@ Most education systems regulate school entry by using a specific annual cut-off 
 
 <p> </p>
 
+**Leaving for More or Settling for Less: Gendered Salary Trajectories after Leaving Academia** \
+(with Anne Maaike Mulders (first author), Bas Hofstra, and Jochem Tolsma) 
+
+<p> </p>
+
 ### In Preparation
 <p> </p>
 
@@ -142,11 +147,6 @@ There are ongoing discussions whether corporate boardroom quotas impact gender e
 Women remain underrepresented in organizational leadership positions throughout the European Union. To achieve a broad representation of women in top management, several European governments have introduced quotas for women on boards of large and highly visible private companies. A key assumption behind these policies is that their impact extends beyond the few directly targeted companies and spills over to other firms, resulting in widespread progress toward gender equality. However, spillover to other non-targeted firms remains understudied. Using administrative data on the total population of Dutch non-financial companies and the appointment of company directors between 2011 and 2022, we apply a heterogeneous diffusion model to assess how gender diversity in organizational leadership spreads across the wider population of private firms following the introduction of a weakly enforced quota for women on boards in the Netherlands. We study whether compliance by companies directly targeted by the quota influences other non-targeted but socially proximate firms to adopt similar practices. We analyse whether compliance norms are transmitted through inter-firm connections by considering three plausible conduits of diffusion: organizational fields, spatial proximity, and boardroom interlocks. Our analyses contribute to the understanding of the role of weakly enforced regulations in shaping broader organizational behaviour and provide insights into how gender diversity in corporate leadership can diffuse across the wider population of private firms. The results have implications for policymaking by highlighting the extent to which quota policies can result in widespread change, even in the absence of stringent enforcement.
 
 </details>
-
-<p> </p>
-
-**Leaving for More or Settling for Less: Gendered Salary Trajectories after Leaving Academia** \
-(with Anne Maaike Mulders (first author), Bas Hofstra, and Jochem Tolsma) 
 
 <p> </p>
 
