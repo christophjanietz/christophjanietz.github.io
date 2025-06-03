@@ -107,6 +107,10 @@ Most education systems regulate school entry by using a specific annual cut-off 
 
 **Leaving for More or Settling for Less: Gendered Salary Trajectories after Leaving Academia** \
 (with Anne Maaike Mulders (first author), Bas Hofstra, and Jochem Tolsma) 
+<details>
+  <summary>Abstract</summary>
+Gender inequality in scientific careers has been documented in a variety of outcomes including access to professor positions, career length, scientific impact, and productivity. Much less is known about the careers of scholars who leave academia at some point. This is an important knowledge gap, since the majority of those who obtain a PhD will not keep working in academia. Furthermore, women PhDs leave the university at higher rates than men, and while this has thus far been assumed to be a negative outcome, the (gendered) effects of this transition out of academia are understudied. The consequences of transitions later in the career are especially unknown. Our paper addresses this knowledge gap by studying the salary development of men and women PhDs over a period up to 17 years. To do so, we use survey data from 21,350 individuals who obtained doctorate at universities in the Netherlands, linked to Dutch register data on salaries, job characteristics and family composition. Because we have access to detailed information about doctoral recipients’ jobs, we are able to pinpoint the transition out of academia and analyse its impact on salary trajectories. We further enrich our findings by testing whether different push and pull factors (i.e. temporary employment, work hours, having a young child, disciplinary background) can help to explain why men and women’s salaries may develop differently following a transition out of academia. Consequently, we provide a detailed but nuanced account of gender inequality in researchers’ careers beyond academia in the Netherlands.
+</details>
 
 <p> </p>
 
