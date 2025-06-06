@@ -13,8 +13,7 @@ permalink: /teaching/
 ### University of Amsterdam
 <p> </p>
 
-- **Bachelor Thesis Seminar** (6 students), 2023, \
-thesis supervision.
+- **Bachelor Thesis Seminar** (thesis supervision), 2023
 
 - **Introduction to Statistics** (undergraduate level), 2019-2021 
 
