@@ -18,7 +18,7 @@ permalink: /research/
 <p> </p>
 
 **[Essential workers and wage inequality: Wage differentials before and during the Covid-19 pandemic, 2006 to 2022](https://direct.mit.edu/euso/article/27/3/580/125850/Essential-workers-and-wage-inequality-wage){:target="_blank"}**, *European Societies*, 27(3): 580–615, (2025).\
-[Preprint](https://christophjanietz.github.io/assets/Essential_Workers_Preprint.pdf){: .button}{:target="_blank"}
+[Article](../assets/Janietz2025.pdf){: .button}{:target="_blank"}
 [bibtex citation](../assets/Janietz2025.bibtex){: .button}{:download}
 [code](https://osf.io/YT4DJ/){: .button}{:target="_blank"}
 <details>
