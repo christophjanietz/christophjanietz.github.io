@@ -95,14 +95,14 @@ Recent studies have identified both occupations and organizations as important s
 ### Under Review
 <p> </p>
 
-**The effect of early tracking on relative age effects in education** \
-(with [Melline Somers](https://www.maastrichtuniversity.nl/m-somers){:target="_blank"} (first author), [Rolf van der Velden](https://www.maastrichtuniversity.nl/r-van-der-velden){:target="_blank"} and [Roxanne Korthals](http://roxannekorthals.com/){:target="_blank"}) 
+**Boardroom Quotas and Gender Disparities in Pay and Representation: The Dutch Case** \
+(with [Sören Tumeltshammer](https://research.rug.nl/en/persons/s%C3%B6ren-tumeltshammer){:target="_blank"} (first author) and [Zoltán Lippényi](https://www.rug.nl/staff/z.lippenyi/?lang=en){:target="_blank"}) 
+
+<p> </p>
 <details>
   <summary>Abstract</summary>
-
-Most education systems regulate school entry by using a specific annual cut-off date to group children into starting cohorts. Prior research shows that relatively younger students often perform worse than their older peers, with this gap diminishing over time. However, this effect varies across countries. Our study analyses how early tracking influences performance gaps in math, science, and reading. Using TIMSS, PIRLS, and PISA data, we find that in early tracking countries, age-related inequalities decline more slowly than in late tracking countries. Policy responses could include delaying tracking or offering flexibility to address misallocations later.
+There are ongoing discussions about whether corporate boardroom quotas impact gender equality within organizations beyond the level of leadership. We examine the impact of the Dutch target law – a weakly enforced quota policy applying to a wide range of firms – on gender wage disparities and female representation across organizational levels. Our findings are ambivalent: while the quota did not reduce the gender wage gap in targeted firms relative to comparable firms, it did increase women’s representation in higher organizational wage echelons below the board. Using linked employer-employee register data and both regression discontinuity and difference-in-differences designs, we show evidence of a gradual shift towards greater gender parity in top employee income quartiles, without corresponding wage equalization. These findings highlight how boardroom quotas, even with weak enforcement, can produce compositional shifts without equalization, providing new empirical evidence and theoretical insight into the mechanisms through which in-stitutional reforms shape inequality.
 </details>
-
 <p> </p>
 
 **Leaving for More or Settling for Less: Gendered Salary Trajectories after Leaving Academia** \
@@ -110,6 +110,16 @@ Most education systems regulate school entry by using a specific annual cut-off 
 <details>
   <summary>Abstract</summary>
 Gender inequality in scientific careers has been documented in a variety of outcomes including access to professor positions, career length, scientific impact, and productivity. Much less is known about the careers of scholars who leave academia at some point. This is an important knowledge gap, since the majority of those who obtain a PhD will not keep working in academia. Furthermore, women PhDs leave the university at higher rates than men, and while this has thus far been assumed to be a negative outcome, the (gendered) effects of this transition out of academia are understudied. The consequences of transitions later in the career are especially unknown. Our paper addresses this knowledge gap by studying the salary development of men and women PhDs over a period up to 17 years. To do so, we use survey data from 21,350 individuals who obtained doctorate at universities in the Netherlands, linked to Dutch register data on salaries, job characteristics and family composition. Because we have access to detailed information about doctoral recipients’ jobs, we are able to pinpoint the transition out of academia and analyse its impact on salary trajectories. We further enrich our findings by testing whether different push and pull factors (i.e. temporary employment, work hours, having a young child, disciplinary background) can help to explain why men and women’s salaries may develop differently following a transition out of academia. Consequently, we provide a detailed but nuanced account of gender inequality in researchers’ careers beyond academia in the Netherlands.
+</details>
+
+<p> </p>
+
+**The effect of early tracking on relative age effects in education** \
+(with [Melline Somers](https://www.maastrichtuniversity.nl/m-somers){:target="_blank"} (first author), [Rolf van der Velden](https://www.maastrichtuniversity.nl/r-van-der-velden){:target="_blank"} and [Roxanne Korthals](http://roxannekorthals.com/){:target="_blank"}) 
+<details>
+  <summary>Abstract</summary>
+
+Most education systems regulate school entry by using a specific annual cut-off date to group children into starting cohorts. Prior research shows that relatively younger students often perform worse than their older peers, with this gap diminishing over time. However, this effect varies across countries. Our study analyses how early tracking influences performance gaps in math, science, and reading. Using TIMSS, PIRLS, and PISA data, we find that in early tracking countries, age-related inequalities decline more slowly than in late tracking countries. Policy responses could include delaying tracking or offering flexibility to address misallocations later.
 </details>
 
 <p> </p>
@@ -131,16 +141,6 @@ In its original conception, the metaphor of the glass ceiling has clear organiza
 </details>
 <p> </p>
 
-<p> </p>
-
-**Broader Impact of Boardroom Quotas: the Dutch Quota and Gender Wage Equality within Organizations** \
-(with [Sören Tumeltshammer](https://research.rug.nl/en/persons/s%C3%B6ren-tumeltshammer){:target="_blank"} (first author) and [Zoltán Lippényi](https://www.rug.nl/staff/z.lippenyi/?lang=en){:target="_blank"}) 
-
-<p> </p>
-<details>
-  <summary>Abstract</summary>
-There are ongoing discussions whether corporate boardroom quotas impact gender equality within organizations beyond the level of leadership. We examine the impact of the Dutch target law – a weakly enforced quota policy applied to a wide range of firms – on gender wage disparities and female representation across organizational levels. Using linked employer-employee register data and regression discontinuity and difference-in-differences designs, we find evidence that the Dutch quota reduced the gender wage gap in targeted firms. Over nine years post-implementation, the gap narrowed by €0.60 more in quota-targeted firms, compared to non-targeted firms. Furthermore, quotas increased women’s representation in higher organizational echelons below the leadership level, with evidence suggesting a gradual shift towards greater gender parity in top income quar-tiles. These findings emphasize the potential of boardroom quotas, even with weak enforcement, to promote gender equality beyond leadership levels, offering critical insights for policymakers and organizational theorists.
-</details>
 <p> </p>
 
 **Cracks in the glass ceiling? Interorganizational diffusion of gender diversity among company executives following quota regulation in the Netherlands** \
