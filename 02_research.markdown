@@ -97,6 +97,7 @@ Recent studies have identified both occupations and organizations as important s
 
 **Boardroom Quotas and Gender Disparities in Pay and Representation: The Dutch Case** \
 (with [Sören Tumeltshammer](https://research.rug.nl/en/persons/s%C3%B6ren-tumeltshammer){:target="_blank"} (first author) and [Zoltán Lippényi](https://www.rug.nl/staff/z.lippenyi/?lang=en){:target="_blank"}) \
+
 [Preprint](https://osf.io/preprints/socarxiv/k9rau_v1){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
