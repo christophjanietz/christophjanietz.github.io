@@ -97,8 +97,7 @@ Recent studies have identified both occupations and organizations as important s
 
 **Boardroom Quotas and Gender Disparities in Pay and Representation: The Dutch Case** \
 (with [Sören Tumeltshammer](https://research.rug.nl/en/persons/s%C3%B6ren-tumeltshammer){:target="_blank"} (first author) and [Zoltán Lippényi](https://www.rug.nl/staff/z.lippenyi/?lang=en){:target="_blank"}) 
-
-<p> </p>
+[Preprint](https://osf.io/preprints/socarxiv/k9rau_v1){: .button}{:target="_blank"}
 <details>
   <summary>Abstract</summary>
 There are ongoing discussions about whether corporate boardroom quotas impact gender equality within organizations beyond the level of leadership. We examine the impact of the Dutch target law – a weakly enforced quota policy applying to a wide range of firms – on gender wage disparities and female representation across organizational levels. Our findings are ambivalent: while the quota did not reduce the gender wage gap in targeted firms relative to comparable firms, it did increase women’s representation in higher organizational wage echelons below the board. Using linked employer-employee register data and both regression discontinuity and difference-in-differences designs, we show evidence of a gradual shift towards greater gender parity in top employee income quartiles, without corresponding wage equalization. These findings highlight how boardroom quotas, even with weak enforcement, can produce compositional shifts without equalization, providing new empirical evidence and theoretical insight into the mechanisms through which in-stitutional reforms shape inequality.
