@@ -9,12 +9,10 @@ title: Christoph Janietz
 
 ### Hi,
 
-I am a postdoctoral researcher at the [Department of Sociology](https://www.rug.nl/gmw/sociology/?lang=en){:target="_blank"} of [University of Groningen](https://www.rug.nl){:target="_blank"} .
+As of January 2026, I work as a labor market advisor and researcher at the Employee Insurance Agency of the Netherlands (UWV), within the department of Labor Market Information and Advice. In this role, I analyse developments in labor demand and supply and individual employment transitions, including entry into work and exits to unemployment or inactivity.
 
-In my research, I am studying issues related to social stratification and labor market inequality. 
+Before joining UWV, I was a postdoctoral researcher at the [Department of Sociology](https://www.rug.nl/gmw/sociology/?lang=en){:target="_blank"} at the [University of Groningen](https://www.rug.nl){:target="_blank"}, where my research focused on social stratification and labour market inequality. I worked on the NWO VIDI–funded project ["Beyond boardrooms"](https://www.rug.nl/gmw/news/220708-lippenyi){:target="_blank"}, studying how the introduction of a legally mandated gender boardroom quota affected gender inequality and careers in Dutch organizations.
 
-I am currently working on the NWO VIDI funded project ["Beyond boardrooms"](https://www.rug.nl/gmw/news/220708-lippenyi){:target="_blank"} together with principal investigator Zoltán Lippényi and PhD candidate Sören Tumeltshammer. 
+I obtained my [PhD](https://hdl.handle.net/11245.1/dad513af-a49e-4ea2-8936-f18e0969cf2e){:target="_blank"} in 2023 from the University of Amsterdam. In my doctoral research, I studied wage inequality in the Netherlands using linked employer–employee data from Dutch social insurance registries.
 
-In my PhD [thesis](https://hdl.handle.net/11245.1/dad513af-a49e-4ea2-8936-f18e0969cf2e){:target="_blank"} project completed in 2023 at the University of Amsterdam, I did research on wage inequality in the Netherlands using administrative linked employer-employee data from the Dutch tax registries. If you want to know more about my research, have a look [here](https://www.uva.nl/en/shared-content/faculteiten/en/faculteit-der-maatschappij-en-gedragswetenschappen/news/2023/06/wage-inequality-between-organisations-is-growing.html?origin=PDQcb5%2BfSuSJvUewdsszdA){:target="_blank"}.
-
-If you are interested in my research, feel free to contact me via [email](mailto:christoph.janietz@uwv.nl).
+If you are interested in my work or would like to get in touch, feel free to contact me via [email](mailto:christoph.janietz@uwv.nl).
