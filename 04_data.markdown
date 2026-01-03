@@ -19,7 +19,7 @@ permalink: /data/
 
 **[NIDIO - Netherlands Integrated Data Infrastructure of Inequality in Organizations](https://osf.io/9b2xh/){:target="_blank"}** \
 (with [Zoltán Lippényi](https://www.rug.nl/staff/z.lippenyi/){:target="_blank"}) \
-[Manual](../assets/NIDIO_manual_v1.2.pdf){: .button}{:download}
+[Manual](../assets/NIDIO_manual_v1.3.pdf){: .button}{:download}
 [OSF Repository](https://www.osf.io/9b2xh){: .button}{:target="_blank"}
 [Code](https://www.github.com/christophjanietz/NIDIO-Code){: .button}{:target="_blank"}
 <p> </p>
