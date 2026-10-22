@@ -17,7 +17,7 @@ permalink: /research/
 ## Publications
 <p> </p>
 
-**Leaving for More or Settling for Less: Gendered Salary Trajectories after Leaving Academia** \
+**[Leaving for More or Settling for Less: Gendered Salary Trajectories after Leaving Academia](https://www.sciencedirect.com/science/article/pii/S0276562426000132){:target="_blank"}**, *Research in Social Stratification and Mobility*, 102, (2026).\
 (with Anne Maaike Mulders (first author), Bas Hofstra, and Jochem Tolsma) 
 <details>
   <summary>Abstract</summary>
