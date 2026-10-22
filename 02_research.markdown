@@ -17,6 +17,15 @@ permalink: /research/
 ## Publications
 <p> </p>
 
+**Leaving for More or Settling for Less: Gendered Salary Trajectories after Leaving Academia** \
+(with Anne Maaike Mulders (first author), Bas Hofstra, and Jochem Tolsma) 
+<details>
+  <summary>Abstract</summary>
+As the population of PhDs increases, a growing share of researchers find employment outside of academia after doctorate receipt. This attrition is higher among women. While prior studies find that doctoral recipients who work outside academia tend to earn more, some only find these wage premiums for men. Such findings are primarily based on scholars who leave academia immediately after the PhD where wage inequality is often examined over a limited timeframe. We extend on these studies by examining the gendered salary developments among PhDs who have started a career in academia over a period up to 17 years after obtaining doctorate. We use survey data from 4576 individuals who obtained doctorate at universities in the Netherlands, linked to longitudinal Dutch register data on salaries, job characteristics, and family composition. We detail our findings by examining different push and pull factors (i.e. temporary employment, work hours, having a young child, disciplinary background) that explain why men and women’s salaries may develop differently following a transition out of academia. Our results show that leaving academia initially increases wages, but slows wage growth over time. We find that women experience stronger immediate wage gains, but slower wage growth after a transition out of academia than men. While leaving academia may offer short-term financial benefits, particularly to women working part-time or on temporary contracts, it may ultimately limit their salary progression by restricting opportunities for promotion.
+</details>
+
+<p> </p>
+
 **[Essential workers and wage inequality: Wage differentials before and during the Covid-19 pandemic, 2006 to 2022](https://direct.mit.edu/euso/article/27/3/580/125850/Essential-workers-and-wage-inequality-wage){:target="_blank"}**, *European Societies*, 27(3): 580–615, (2025).\
 [Article](../assets/Janietz2025.pdf){: .button}{:target="_blank"}
 [bibtex citation](../assets/Janietz2025.bibtex){: .button}{:download}
@@ -102,15 +111,6 @@ Recent studies have identified both occupations and organizations as important s
   <summary>Abstract</summary>
 There are ongoing discussions about whether corporate boardroom quotas impact gender equality within organizations beyond the level of leadership. We examine the impact of the Dutch target law – a weakly enforced quota policy applying to a wide range of firms – on gender wage disparities and female representation across organizational levels. Our findings are ambivalent: while the quota did not reduce the gender wage gap in targeted firms relative to comparable firms, it did increase women’s representation in higher organizational wage echelons below the board. Using linked employer-employee register data and both regression discontinuity and difference-in-differences designs, we show evidence of a gradual shift towards greater gender parity in top employee income quartiles, without corresponding wage equalization. These findings highlight how boardroom quotas, even with weak enforcement, can produce compositional shifts without equalization, providing new empirical evidence and theoretical insight into the mechanisms through which in-stitutional reforms shape inequality.
 </details>
-<p> </p>
-
-**Leaving for More or Settling for Less: Gendered Salary Trajectories after Leaving Academia** \
-(with Anne Maaike Mulders (first author), Bas Hofstra, and Jochem Tolsma) 
-<details>
-  <summary>Abstract</summary>
-As the population of PhDs increases, a growing share of researchers find employment outside of academia after doctorate receipt. This attrition is higher among women. While prior studies find that doctoral recipients who work outside academia tend to earn more, some only find these wage premiums for men. Such findings are primarily based on scholars who leave academia immediately after the PhD where wage inequality is often examined over a limited timeframe. We extend on these studies by examining the gendered salary developments among PhDs who have started a career in academia over a period up to 17 years after obtaining doctorate. We use survey data from 4,576 individuals who obtained doctorate at universities in the Netherlands, linked to longitudinal Dutch register data on salaries, job characteristics, and family composition. We detail our findings by examining different push and pull factors (i.e. temporary employment, work hours, having a young child, disciplinary background) that explain why men and women’s salaries may develop differently following a transition out of academia. Our results show that leaving academia initially increases wages, but slows wage growth over time. We find that women experience stronger immediate wage gains, but slower wage growth after a transition out of academia than men. While leaving academia may offer short-term financial benefits, particularly to women working part-time or on temporary contracts, it may ultimately limit their salary progression by restricting opportunities for promotion.
-</details>
-
 <p> </p>
 
 **The effect of early tracking on relative age effects in education** \
